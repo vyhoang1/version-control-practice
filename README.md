@@ -17,3 +17,17 @@ For more information about Markdown syntax, see the [Markdown Cheat Sheet](https
 Another change. 
 
 Another change. We're practicing branch operations. 
+
+
+Run the unemployemtn report:
+
+```sh
+ALPHAVANTAGE_API_KEY="..." python app/unemployemtn.py
+```
+
+
+Run the stocks report:
+
+```sh
+python app/stocks.py
+```
